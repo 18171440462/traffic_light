@@ -1,0 +1,152 @@
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02350.jpg 1996,1005,2005,1012,2 1269,1060,1282,1073,0 1244,1061,1256,1072,0 1480,1115,1500,1128,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01138.jpg 1001,923,1011,933,0 1067,943,1076,952,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02717.jpg 632,1100,642,1110,0 1484,1004,1494,1014,0 1419,1004,1429,1014,0 2535,911,2548,925,2 2500,808,2513,818,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02214.jpg 2065,968,2091,991,2 2125,910,2153,938,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01626.jpg 1868,549,1908,607,0 2021,682,2038,704,2 2160,658,2168,673,2 1785,929,1794,942,0 526,960,532,971,0 1182,733,1199,750,0 1007,732,1025,749,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01581.jpg 1652,1185,1658,1193,2 1638,1168,1643,1175,0 1387,1225,1395,1235,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02644.jpg 2458,896,2474,912,0 2361,910,2378,930,2 1460,1085,1469,1094,0 1312,1021,1326,1033,0 1155,1120,1158,1122,2 1179,1145,1182,1148,2 1107,1142,1109,1144,0 1096,1142,1098,1144,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02827.jpg 1309,888,1327,907,0 1459,942,1475,961,2 1578,948,1593,965,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02594.jpg 1650,1141,1669,1154,2 119,1073,134,1090,2 254,1082,269,1097,0 1340,860,1364,887,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02522.jpg 1338,969,1356,989,0 1304,992,1311,1000,0 1288,1031,1294,1038,2 516,1047,524,1054,0 274,1071,285,1077,0 291,1071,301,1076,0 138,960,151,973,0 61,953,77,966,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02027.jpg 468,1110,474,1116,0 1223,1104,1227,1107,0 1159,1057,1167,1063,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00514.jpg 239,1095,253,1122,0 1634,1088,1647,1110,2 1410,912,1425,923,2 1239,909,1255,927,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02167.jpg 1259,1109,1268,1116,0 1313,1109,1324,1119,0 1456,1108,1467,1118,0 1386,1170,1393,1176,0 1399,1169,1407,1175,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02985.jpg 1358,1043,1373,1058,2 1290,1006,1305,1021,0 1247,1019,1262,1045,2 1190,1042,1206,1058,2 1996,1083,2006,1104,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02199.jpg 1124,894,1161,930,2 1395,901,1431,940,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00253.jpg 1203,1141,1210,1151,0 1178,1147,1193,1160,0 1161,1141,1169,1152,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00661.jpg 1367,971,1376,983,2 1207,857,1219,868,2 1021,861,1030,872,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02241.jpg 589,1096,601,1114,2 738,1105,752,1116,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02341.jpg 1470,1072,1483,1086,0 1657,1169,1666,1178,0 2541,990,2555,1008,2 2324,758,2339,774,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02618.jpg 2009,1100,2017,1115,0 1575,1114,1586,1121,0 1420,983,1435,998,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00401.jpg 1039,1038,1055,1057,2 2080,778,2105,821,0 2459,745,2483,765,0 2063,663,2082,684,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00650.jpg 140,886,154,902,2 1310,721,1325,736,2 1638,851,1649,860,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01871.jpg 187,980,197,989,2 757,901,765,909,0 775,902,785,910,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02253.jpg 1080,1159,1094,1174,2 1489,1134,1500,1144,2 1269,1195,1274,1199,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00063.jpg 1460,629,1495,668,2 1306,619,1342,655,2 2042,844,2073,882,2 955,1054,964,1061,0 1291,1003,1299,1013,2 1322,1004,1330,1014,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00670.jpg 319,914,338,939,2 380,738,399,752,0 1795,617,1826,655,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02328.jpg 1617,1145,1622,1150,0 1647,1147,1652,1153,0 1746,1195,1752,1200,0 1812,1171,1822,1178,0 1887,1213,1893,1222,0 1908,1212,1915,1219,0 1093,1149,1103,1158,0 1550,1170,1560,1177,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02156.jpg 1432,1056,1445,1073,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02045.jpg 2605,796,2622,813,2 2098,1072,2110,1089,0 1346,1061,1359,1068,0 1332,1058,1341,1069,0 1199,979,1216,994,0 1119,981,1136,995,0 82,1079,93,1090,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01173.jpg 2504,391,2621,526,2 2364,429,2449,507,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00576.jpg 1148,722,1171,750,0 59,535,119,588,0 61,1154,73,1160,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02424.jpg 1823,1096,1839,1110,0 1690,873,1722,885,0 1725,903,1760,915,0 325,1131,344,1146,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01887.jpg 1247,852,1267,874,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02202.jpg 1360,1110,1370,1119,2 1398,1112,1407,1121,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01534.jpg 873,707,895,728,0 1035,720,1051,740,0 1180,732,1193,750,0 2433,479,2460,513,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01242.jpg 1731,1139,1735,1149,0 1538,1061,1553,1077,2 1419,1043,1430,1057,0 1277,1080,1291,1095,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02484.jpg 996,1053,1008,1066,0 751,1048,761,1056,2 750,1079,759,1088,2 880,1085,886,1092,2 888,1085,894,1090,2 884,1098,889,1104,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00393.jpg 1411,309,1479,409,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01154.jpg 655,912,662,921,0 658,921,674,938,0 496,983,505,992,0 1184,925,1205,942,2 1214,935,1229,947,2 1333,985,1348,999,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02711.jpg 2506,813,2515,821,0 1788,1086,1794,1098,0 1485,1002,1493,1014,0 1419,1028,1431,1039,2 634,1100,641,1109,2 78,931,91,941,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02677.jpg 2567,622,2582,634,0 1824,949,1834,968,0 1532,1086,1535,1090,0 1526,1111,1528,1117,0 1366,1067,1371,1072,0 497,1101,503,1108,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02504.jpg 1462,1015,1481,1036,0 1903,963,1918,979,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00694.jpg 1589,885,1596,895,2 1206,842,1216,853,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00284.jpg 2660,1080,2678,1103,0 979,1192,987,1205,2 1389,1183,1396,1193,2 1412,1168,1432,1186,2 1576,1239,1588,1249,2 1579,1269,1588,1283,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01449.jpg 1272,808,1293,829,2 953,793,966,809,0 824,781,837,799,0 686,774,705,791,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01728.jpg 1296,843,1312,864,2 1491,952,1503,965,2 43,774,56,786,0 113,987,126,1001,2 775,832,788,848,0 877,834,893,848,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01385.jpg 1342,1077,1351,1087,2 1401,1057,1410,1068,0 1464,1071,1473,1080,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02449.jpg 1123,1158,1129,1165,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00540.jpg 386,1137,394,1155,0 2015,956,2027,973,0 1995,843,2010,855,0 1581,750,1600,767,0 1665,740,1683,761,0 1718,1064,1721,1070,2 1672,1039,1677,1044,0 1651,1041,1656,1046,2 1580,1078,1586,1084,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00529.jpg 1524,1033,1532,1042,0 1674,1096,1684,1103,0 1678,1130,1687,1140,0 653,1121,663,1130,2 1297,1086,1308,1095,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02772.jpg 1187,736,1254,796,0 1311,1090,1317,1095,0 1351,1091,1356,1096,0 1393,1091,1397,1096,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00382.jpg 2031,1079,2086,1120,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00956.jpg 903,1220,920,1238,2 965,1211,994,1235,2 1039,1229,1052,1240,2 1296,1228,1312,1242,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01196.jpg 2354,483,2451,582,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00137.jpg 1047,938,1053,944,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01599.jpg 1613,701,1633,739,2 1060,928,1071,940,0 1138,926,1148,938,0 1207,925,1218,936,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00323.jpg 1326,1181,1337,1196,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01937.jpg 1617,861,1649,895,2 818,921,827,938,0 102,787,135,816,0 63,860,82,874,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01929.jpg 1179,844,1192,865,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00462.jpg 65,1150,85,1171,2 1538,1128,1545,1142,2 1562,1026,1576,1040,2 1570,1074,1581,1084,2 2002,906,2012,917,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02734.jpg 2447,766,2481,820,0 1831,999,1844,1014,0 1253,1026,1269,1041,2 1217,1023,1234,1039,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00734.jpg 1158,1017,1163,1022,0 1179,1017,1184,1022,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00373.jpg 1320,1326,1332,1338,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00108.jpg 1403,931,1409,942,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02695.jpg 1982,1037,1994,1049,0 1908,1061,1919,1074,2 1839,1032,1848,1044,0 1770,1029,1781,1040,0 1705,1054,1719,1069,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01067.jpg 2553,229,2640,322,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01569.jpg 374,1210,398,1232,0 268,901,299,931,0 90,850,134,880,0 1014,1244,1026,1255,0 1513,1048,1536,1077,2 1377,1051,1398,1078,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01066.jpg 2553,229,2640,322,0 2490,526,2553,598,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01686.jpg 291,1016,301,1024,2 1356,796,1374,813,0 1496,795,1513,813,0 1593,796,1611,813,0 2263,649,2275,666,2 1229,1025,1233,1031,0 1320,1023,1325,1028,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01194.jpg 1969,822,1999,855,0 2202,878,2232,913,2 2436,874,2470,910,2 70,735,97,760,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00999.jpg 1553,1348,1559,1358,0 1464,1359,1470,1366,0 1285,1301,1290,1309,0 1248,1305,1257,1316,0 1212,1304,1216,1311,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01392.jpg 1688,1022,1697,1032,0 1610,1021,1623,1034,0 917,1163,925,1172,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01994.jpg 1028,1108,1036,1121,2 1158,1104,1166,1118,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02597.jpg 1466,1082,1479,1094,2 2433,1067,2444,1073,0 640,1174,650,1189,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00352.jpg 1017,628,1035,648,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01716.jpg 1320,877,1329,887,0 1419,874,1430,885,0 1500,870,1509,884,0 2290,712,2303,732,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01021.jpg 1965,645,1996,678,0 2027,622,2095,693,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02786.jpg 1621,1152,1626,1161,0 1377,1094,1386,1101,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02019.jpg 779,1039,802,1063,2 723,999,745,1019,0 1946,1104,1958,1118,2 2118,1186,2128,1191,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01818.jpg 657,771,668,784,0 708,925,717,937,2 1478,817,1490,833,0 1574,821,1586,837,0 2268,729,2285,747,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01295.jpg 1487,972,1517,1012,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02660.jpg 439,1063,451,1081,0 1287,1031,1296,1040,0 1336,1032,1348,1043,0 2042,1042,2064,1066,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02940.jpg 2029,812,2059,843,2 1783,812,1834,854,2 1688,823,1714,848,2 1450,834,1476,860,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01660.jpg 1562,790,1597,832,2 281,848,305,872,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00121.jpg 2174,942,2190,968,2 2169,857,2184,872,2 1674,607,1737,657,2 1625,643,1650,668,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01721.jpg 1241,888,1253,901,2 1145,866,1155,881,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02130.jpg 1608,1100,1621,1109,0 1589,1099,1601,1111,0 1355,933,1376,949,0 1235,928,1253,945,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00619.jpg 2428,1035,2460,1065,0 2422,972,2430,985,0 2164,1048,2176,1060,2 1986,940,1998,955,2 1922,927,1955,951,2 1879,949,1895,964,2 1253,1006,1271,1022,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01596.jpg 1069,752,1093,780,0 987,758,1012,781,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00287.jpg 2243,1088,2268,1127,0 1650,1211,1668,1226,2 1417,1097,1431,1108,2 1455,1096,1468,1110,2 1488,1078,1521,1103,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00776.jpg 1162,1154,1168,1161,0 1647,1119,1653,1125,0 1642,1084,1650,1094,0 1468,1077,1476,1087,0 1450,1073,1455,1079,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02562.jpg 1425,1115,1433,1122,0 1412,1118,1416,1124,0 1433,1025,1446,1038,0 1387,1025,1402,1036,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01795.jpg 1117,969,1132,987,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00286.jpg 1587,1217,1598,1230,0 1448,1103,1470,1131,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02507.jpg 1178,848,1197,865,0 1115,833,1145,863,0 688,430,732,484,0 275,354,337,405,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00319.jpg 1319,1257,1325,1266,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01853.jpg 733,417,772,450,0 1214,526,1254,563,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01371.jpg 995,558,1031,593,0 1278,628,1321,668,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02269.jpg 1890,1116,1899,1123,0 1905,1117,1910,1121,0 1521,1039,1534,1051,0 1652,1038,1664,1051,0 2132,1127,2136,1133,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01760.jpg 1199,750,1222,772,0 1334,768,1366,799,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00191.jpg 1260,1103,1267,1112,0 1215,1103,1220,1112,0 1163,1104,1169,1113,0 1127,1110,1139,1119,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00211.jpg 1283,967,1296,979,0 1587,1095,1596,1111,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01733.jpg 1733,958,1748,977,0 2059,139,2150,272,0 2113,571,2140,603,2 868,775,890,796,0 727,768,755,791,0 299,983,311,998,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00120.jpg 1580,1064,1584,1070,2 1579,1036,1586,1041,2 1451,968,1469,982,2 1440,979,1444,985,2 1934,1035,1938,1043,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00518.jpg 851,1122,860,1133,0 848,1080,859,1090,0 1714,1093,1720,1102,2 1479,1111,1483,1120,0 1474,1068,1483,1077,0 1281,1005,1290,1014,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00958.jpg 1526,1322,1536,1334,0 1435,1224,1443,1237,0 1367,1229,1380,1239,0 1328,1215,1336,1225,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02471.jpg 1132,1071,1146,1080,0 1188,1068,1200,1078,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00594.jpg 2320,1097,2325,1102,2 1690,1029,1693,1035,0 1769,1045,1775,1052,2 1965,1043,1972,1049,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01158.jpg 2036,826,2078,865,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02904.jpg 1003,1208,1009,1212,0 1027,1206,1030,1211,2 458,1271,466,1278,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00521.jpg 1603,1129,1611,1134,2 1627,1124,1634,1131,2 1489,1094,1493,1099,2 1466,1086,1473,1097,2 1442,1096,1447,1101,2 1007,1146,1013,1153,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01248.jpg 1817,1143,1823,1151,0 1615,1065,1629,1079,2 1491,1047,1503,1062,0 1344,1058,1358,1070,0 555,1248,560,1258,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02160.jpg 1643,1114,1660,1133,2 1236,1144,1245,1153,2 1110,1010,1126,1028,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02082.jpg 2312,1020,2324,1031,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02261.jpg 1887,1123,1896,1133,2 1900,1104,1908,1111,0 2126,1108,2133,1117,0 1543,1034,1556,1048,2 1647,1032,1660,1046,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01704.jpg 953,715,974,738,0 1099,760,1125,786,2 1221,758,1248,783,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02816.jpg 1013,918,1034,938,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00672.jpg 888,1027,895,1033,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02051.jpg 1196,1076,1207,1088,1
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00954.jpg 1229,1178,1239,1192,2 1299,1155,1335,1186,2 1390,1181,1398,1196,0 1677,1319,1696,1338,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00801.jpg 2018,1047,2027,1055,0 1370,1074,1376,1080,2 1356,1074,1362,1080,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02282.jpg 1833,318,1894,377,1 1510,309,1559,376,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00872.jpg 1492,1009,1503,1020,2 1517,994,1535,1009,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00478.jpg 2614,834,2666,873,2 2576,899,2609,947,2 594,839,642,884,2 662,861,696,902,2 1445,882,1464,903,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00552.jpg 1562,1108,1572,1121,2 1562,1072,1573,1081,2 1355,973,1368,987,2 1298,944,1312,957,0 427,1121,441,1131,0 432,1069,445,1083,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01442.jpg 1791,311,1863,385,0 1746,568,1769,612,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00899.jpg 1206,1217,1214,1226,0 1179,1217,1189,1225,0 322,1240,333,1253,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02889.jpg 1051,973,1070,989,2 1122,971,1141,988,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01476.jpg 2106,718,2118,732,2 1951,713,1958,722,0 1357,940,1362,949,0 1046,846,1056,858,0 967,849,977,859,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02096.jpg 2493,962,2520,981,0 2610,779,2628,798,0 1509,1164,1521,1183,2 1313,1156,1331,1171,2 1216,1024,1234,1044,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02363.jpg 2692,875,2699,880,0 2376,1078,2385,1091,0 1736,1138,1742,1143,2 1577,1041,1588,1051,0 454,1081,464,1092,0 1573,1177,1579,1186,2 1956,1128,1961,1136,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00383.jpg 1299,1108,1303,1114,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00448.jpg 2598,920,2679,964,2 2615,1039,2679,1088,2 1606,980,1634,1003,0 945,534,997,574,0 407,343,461,400,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02354.jpg 602,1130,620,1142,2 1879,899,1913,912,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02437.jpg 940,1093,950,1100,0 960,1093,966,1100,0 987,1125,997,1131,0 1198,1139,1204,1144,0 460,1129,472,1140,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00088.jpg 2616,850,2634,864,0 1207,1018,1219,1028,0 1156,1016,1162,1024,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00895.jpg 1600,1195,1609,1206,0 1252,1089,1266,1109,0 1217,1081,1231,1094,0 637,1280,649,1294,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02596.jpg 1443,1076,1456,1088,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01507.jpg 1190,322,1207,356,0 1645,280,1681,333,2 2499,583,2535,624,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01952.jpg 1369,1065,1389,1087,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/03000.jpg 81,1012,101,1029,0 1238,1083,1249,1094,2 1272,1070,1285,1085,2 1299,1082,1308,1094,2 1348,1083,1358,1093,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00981.jpg 82,1111,92,1121,0 123,1120,152,1143,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/02294.jpg 1451,1041,1458,1047,0 1715,1113,1720,1122,0 1725,1115,1731,1119,0 1796,1067,1801,1073,0 797,1126,803,1133,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01896.jpg 1905,109,1931,148,0 2043,950,2049,959,2 1024,896,1038,913,2 919,896,936,913,2 799,896,819,914,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01049.jpg 1996,622,2038,678,2 1942,646,1962,682,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00865.jpg 541,945,556,959,2 572,944,587,959,2 668,1073,674,1091,0 872,1055,878,1071,2 1805,798,1818,813,0 1730,645,1742,661,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00480.jpg 1266,1071,1272,1080,0 1327,1082,1336,1091,2 1447,1119,1458,1129,2 1521,1127,1532,1140,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00333.jpg 1826,1296,1837,1308,0 1592,1202,1602,1215,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01380.jpg 1275,95,1352,169,2 2012,132,2069,196,2
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00001.jpg 1037,750,1068,800,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/01919.jpg 703,949,711,956,2 1199,892,1211,904,2 1167,892,1178,903,2 1122,881,1133,891,0
+/home/ie/桌面/ZDW/projects/traffic_light/documents/train_dataset/train_images/00447.jpg 1280,1298,1299,1318,2 1361,1304,1380,1323,2 1588,1386,1601,1399,2 2489,1041,2505,1058,0 2674,993,2695,1015,0
